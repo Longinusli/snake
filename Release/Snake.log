@@ -1,0 +1,6 @@
+﻿  snake.c
+c:\users\pc\source\repos\snake\snake.c(145): warning C4013: “time”未定义；假设外部返回 int
+  正在生成代码
+  All 22 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Snake.vcxproj -> C:\Users\PC\source\repos\Snake\Release\Snake.exe

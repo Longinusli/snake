@@ -1,0 +1,13 @@
+﻿  snake.c
+c:\users\pc\source\repos\snake\snake.c(58): warning C4129: “W”: 不可识别的字符转义序列
+c:\users\pc\source\repos\snake\snake.c(58): warning C4129: “*”: 不可识别的字符转义序列
+c:\users\pc\source\repos\snake\snake.c(59): warning C4129: “ ”: 不可识别的字符转义序列
+c:\users\pc\source\repos\snake\snake.c(59): warning C4129: “*”: 不可识别的字符转义序列
+c:\users\pc\source\repos\snake\snake.c(81): warning C4098: “testspace”:“void”函数返回值
+c:\users\pc\source\repos\snake\snake.c(87): warning C4047: “函数”:“DWORD”与“void *”的间接级别不同
+c:\users\pc\source\repos\snake\snake.c(87): warning C4024: “PlaySoundA”: 形参和实参 3 的类型不同
+c:\users\pc\source\repos\snake\snake.c(147): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\string.h(338): note: 参见“strncpy”的声明
+c:\users\pc\source\repos\snake\snake.c(157): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\string.h(338): note: 参见“strncpy”的声明
+c:\users\pc\source\repos\snake\snake.c(166): warning C4013: “time”未定义；假设外部返回 int
